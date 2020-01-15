@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"cloud.google.com/go/datastore"
-	"github.com/nshmura/dsio/core"
-	"github.com/nshmura/dsio/gql"
+	"github.com/mrpotes/dsio/core"
+	"github.com/mrpotes/dsio/gql"
 	"google.golang.org/api/iterator"
 )
 

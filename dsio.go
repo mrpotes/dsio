@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/nshmura/dsio/action"
-	"github.com/nshmura/dsio/core"
+	"github.com/mrpotes/dsio/action"
+	"github.com/mrpotes/dsio/core"
 	"github.com/urfave/cli"
 )
 
